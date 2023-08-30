@@ -17,5 +17,5 @@ curl -X POST \
       "name": "Matt Busy Payne"
     }
   ],
-  "body": "<a href=https://MattPayne.org>This email was sent using the Nylas</a> email API."
+  "body": "<p><a href=https://Grothe.us?rsvp=mpayne>This email was sent using the Nylas</a> email API.</p><p><a href=https://MattPayne.org>Heck NO!</a></p>"
 }'
